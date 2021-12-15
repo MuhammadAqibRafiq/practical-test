@@ -1,0 +1,125 @@
+{
+  "Form": [
+    {
+      "firstName": "Johnno",
+      "lastName": "no",
+      "email": "john@gmail.com",
+      "num": "45869782",
+      "id": 0.9635230818465486
+    },
+    {
+      "firstName": "John",
+      "lastName": "peter",
+      "email": "john@gmail.com",
+      "num": "458697",
+      "id": 0.5536433709486581
+    },
+    {
+      "id": 0.8597197118293303,
+      "firstName": "John",
+      "lastName": "d",
+      "email": "john@gmail.com",
+      "num": "1235"
+    }
+  ],
+  "Frontpage": [
+    {
+      "id": 1,
+      "title": "Product Design",
+      "description": "Our multifaceted apps are custom built and developed to support multiPle platforms including both Android and iOS making apps accessible for all",
+      "img": ""
+    }
+  ],
+  "Button": [
+    {
+      "btn": "User experience design"
+    },
+    {
+      "btn": "visual design"
+    },
+    {
+      "btn": "Proto Typing"
+    },
+    {
+      "btn": "Design system"
+    },
+    {
+      "btn": "Content design"
+    },
+    {
+      "btn": "Voice , chatbox"
+    }
+  ],
+  "Todo": [
+    {
+      "id": 0.42575510107630166,
+      "todo": "123"
+    },
+    [
+      {
+        "id": 0.5793875260583523,
+        "todo": "todo1"
+      },
+      {
+        "id": 0.40468308017062826,
+        "todo": "todo2"
+      }
+    ],
+    [
+      {
+        "id": 0.47255466035342275,
+        "todo": "fds"
+      }
+    ],
+    [
+      {
+        "id": 0.3741484891058078,
+        "todo": "das"
+      }
+    ],
+    [
+      {
+        "id": 0.1819414191902209,
+        "todo": "sa"
+      },
+      {
+        "id": 0.8970187221179746,
+        "todo": "sa"
+      }
+    ],
+    [
+      {
+        "id": 0.4540351192276195,
+        "todo": "das"
+      }
+    ],
+    [
+      {
+        "id": 0.7831748460987671,
+        "todo": "das"
+      }
+    ],
+    [
+      {
+        "id": 0.7831748460987671,
+        "todo": "dasdas"
+      }
+    ],
+    [
+      {
+        "id": 0.7967694176855575,
+        "todo": "da"
+      }
+    ],
+    [
+      {
+        "id": 0.8280997848322493,
+        "todo": "458"
+      },
+      {
+        "id": 0.05312863548962299,
+        "todo": "459"
+      }
+    ]
+  ]
+}
